@@ -1,0 +1,9 @@
+// before start work
+git pull pakaya master
+
+
+//after work
+
+1.)git add --all
+2.)git commit -am "any thing you want sudda"
+3.)git push pakaya master
